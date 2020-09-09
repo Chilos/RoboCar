@@ -1,0 +1,6 @@
+C:\Users\chilo\source\repos\ConsoleApp1\Robo.Bluetooth.Core\bin\Debug\Robo.Bluetooth.Core.dll
+C:\Users\chilo\source\repos\ConsoleApp1\Robo.Bluetooth.Core\bin\Debug\Robo.Bluetooth.Core.pdb
+C:\Users\chilo\source\repos\ConsoleApp1\Robo.Bluetooth.Core\obj\Debug\Robo.Bluetooth.Core.csprojAssemblyReference.cache
+C:\Users\chilo\source\repos\ConsoleApp1\Robo.Bluetooth.Core\obj\Debug\Robo.Bluetooth.Core.csproj.CoreCompileInputs.cache
+C:\Users\chilo\source\repos\ConsoleApp1\Robo.Bluetooth.Core\obj\Debug\Robo.Bluetooth.Core.dll
+C:\Users\chilo\source\repos\ConsoleApp1\Robo.Bluetooth.Core\obj\Debug\Robo.Bluetooth.Core.pdb
