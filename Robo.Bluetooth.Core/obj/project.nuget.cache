@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3HkPUG33ARVpOQqWYFe8oXOtJtQRyOmsVyrMOA5kHN/+g092Xt9KfaCUHf1pr000/jqe4Xvu/NsnpRunFS8WgA==",
+  "dgSpecHash": "7E10gP1ezfsO5j47aW2HLjza+gw0zFZyBEtwVaLmQkcmnICLDAlLUPdzxnP/PQlC7tx6iw4USA5gLZQO8E7iUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\chilo\\source\\repos\\ConsoleApp1\\Robo.Bluetooth.Core\\Robo.Bluetooth.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\chilo\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
     "C:\\Users\\chilo\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
     "C:\\Users\\chilo\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
   ],
